@@ -8,3 +8,7 @@ Repositório destinado as atividades da matéria de Inteligência Artificial da 
 ## Atividade 5 - Regressão Linear usando Python
 
 [Acesse o resultado](https://github.com/fabsvas/inteligencia-artificial-fatec/blob/master/atividade5/regressao_linear.ipynb)
+
+## Atividade 6 - Agrupamento K-MEANS usando Python
+
+[Acesse o resultado](https://github.com/fabsvas/inteligencia-artificial-fatec/blob/master/atividade6/agrupamento_kmeans.ipynb)
